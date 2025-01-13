@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AppKhairllina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7BBDDC-C8CD-4313-9D0B-3A9B5DF6931D}|AppKhairllina.csproj|c:\\users\\user\\source\\repos\\appkhairllina\\appkhairllina.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3C7BBDDC-C8CD-4313-9D0B-3A9B5DF6931D}|AppKhairllina.csproj|solutionrelative:appkhairllina.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7BBDDC-C8CD-4313-9D0B-3A9B5DF6931D}|AppKhairllina.csproj|c:\\users\\user\\source\\repos\\appkhairllina\\appkhairllina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C7BBDDC-C8CD-4313-9D0B-3A9B5DF6931D}|AppKhairllina.csproj|solutionrelative:appkhairllina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{936b24b7-e640-3186-98a7-24307bb298e0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppKhairllina",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppKhairllina\\AppKhairllina.csproj",
+              "RelativeDocumentMoniker": "AppKhairllina.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppKhairllina\\AppKhairllina.csproj",
+              "RelativeToolTip": "AppKhairllina.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T06:43:57.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppKhairllina",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppKhairllina\\AppKhairllina.csproj",
+              "RelativeDocumentMoniker": "AppKhairllina.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppKhairllina\\AppKhairllina.csproj",
+              "RelativeToolTip": "AppKhairllina.csproj",
+              "ViewState": "AgIAACAAAABA2vv8tygkwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T05:10:16.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
